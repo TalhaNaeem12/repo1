@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B458-4025
+
+ Directory of C:\Users\talha.naeem\Desktop\My Git project
+
+25/10/2026  03:55 am    <DIR>          .
+25/10/2026  03:52 am    <DIR>          ..
+25/10/2026  03:55 am                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  339,017,043,968 bytes free
